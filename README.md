@@ -18,3 +18,9 @@ It is important to download the source code before using the installer and place
 after the build, the project will start
 
 Enjoy using it
+
+
+# photos
+
+<img width="504" height="909" alt="image" src="https://github.com/user-attachments/assets/b8f4cf73-1be3-4f13-bfe4-d70587abf07e" /> 
+
